@@ -7,7 +7,8 @@ const nextConfig = {
     // DOMAIN: "dev-7bpognub.us.auth0.com",
     // CLIENTID: "zsZeodNWz1XRcvjJwiwt7zZlCfXlwAJz",
     // PUBLIC_KEY:"APP_USR-9df59e2d-2f26-4f44-b9fc-ac794230d205"
-    URL: "http://localhost:3000/"
+    URL: "http://localhost:3000/",
+    prueba: "prueba"
 
   },
 }
