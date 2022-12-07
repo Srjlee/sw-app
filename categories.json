@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bebidas",
+      "sublevels": [
+        {
+          "id": 2,
+          "name": "Gaseosas",
+          "sublevels": [
+            { "id": 3, "name": "Con Azucar" },
+            { "id": 4, "name": "Sin Azucar" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Desayuno",
+      "sublevels": [
+        {
+          "id": 6,
+          "name": "Cereales",
+          "sublevels": [
+            { "id": 7, "name": "Con Azucar" },
+            { "id": 8, "name": "Sin Azucar" }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Yogures",
+          "sublevels": [
+            { "id": 10, "name": "Con Azucar" },
+            { "id": 11, "name": "Sin Azucar" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Cena",
+      "sublevels": [
+        {
+          "id": 13,
+          "name": "Microondas",
+          "sublevels": [
+            { "id": 14, "name": "Para hacer" },
+            { "id": 15, "name": "Para Calentar" }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Cocina Tradicional",
+          "sublevels": [
+            { "id": 17, "name": "Para hacer" },
+            { "id": 18, "name": "Para Calentar" }
+          ]
+        }
+      ]
+    }
+  ]
+}
